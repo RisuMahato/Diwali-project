@@ -6,6 +6,8 @@ Hey there, kiddo! 🎉 Have you heard of Diwali? It's the festival of lights! �
 
 <h2>What can you do with this project? 🛠️</h2>
 You can:
+<br>
+<br>
 
 <ul>
 <li>See amazing Diwali lights on your screen! 💡✨</li>
