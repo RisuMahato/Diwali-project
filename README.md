@@ -8,7 +8,7 @@ Hey there, kiddo! 🎉 Have you heard of Diwali? It's the festival of lights! �
 You can:
 
 <ul></ul>
-<li></li>See amazing Diwali lights on your screen! 💡✨</li>
+<li>See amazing Diwali lights on your screen! 💡✨</li>
 Play with colors and make everything look pretty! 🌈
 Create your own Diwali fun right on the computer! 🎨
 </ul>
