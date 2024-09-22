@@ -4,7 +4,7 @@
 Hey there, kiddo! 🎉 Have you heard of Diwali? It's the festival of lights! 🪔 This project is all about making Diwali even more fun by showing some cool stuff on a computer! 💻✨
 
 
-What can you do with this project? 🛠️
+<h2>What can you do with this project? 🛠️</h2>
 You can:
 
 See amazing Diwali lights on your screen! 💡✨
