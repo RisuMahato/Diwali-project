@@ -7,9 +7,11 @@ Hey there, kiddo! 🎉 Have you heard of Diwali? It's the festival of lights! �
 <h2>What can you do with this project? 🛠️</h2>
 You can:
 
-See amazing Diwali lights on your screen! 💡✨
+<ul></ul>
+<li></li>See amazing Diwali lights on your screen! 💡✨</li>
 Play with colors and make everything look pretty! 🌈
 Create your own Diwali fun right on the computer! 🎨
+</ul>
 How to use it? 🤓
 Click on this link to the project. 🖱️
 Follow the easy steps to make it work! It's like magic! ✨🎩
