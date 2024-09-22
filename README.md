@@ -3,6 +3,7 @@
 <h2> What is this project about? 🤔 </h2>
 Hey there, kiddo! 🎉 Have you heard of Diwali? It's the festival of lights! 🪔 This project is all about making Diwali even more fun by showing some cool stuff on a computer! 💻✨
 
+
 What can you do with this project? 🛠️
 You can:
 
