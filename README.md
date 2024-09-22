@@ -16,7 +16,7 @@ You can:
 </ul>
 <h2>How to use it? 🤓</h2>
 <ol>
-<li>Click on this link to the project. 🖱️</li>
+<li>Click on this <a href=''https://github.com/RisuMahato/Diwali-project>link to the project. 🖱️</a> </li>
 <li>Follow the easy steps to make it work! It's like magic! ✨🎩</li>
 </ol>
 <h2></h2>Why is it fun? 🎉</h2>
