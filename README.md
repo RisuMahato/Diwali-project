@@ -9,10 +9,10 @@ You can:
 
 <ul></ul>
 <li>See amazing Diwali lights on your screen! 💡✨</li>
-Play with colors and make everything look pretty! 🌈
-Create your own Diwali fun right on the computer! 🎨
+<li>Play with colors and make everything look pretty! 🌈</li>
+<li>Create your own Diwali fun right on the computer! 🎨</li>
 </ul>
-How to use it? 🤓
+<h2>How to use it? 🤓</h2>
 Click on this link to the project. 🖱️
 Follow the easy steps to make it work! It's like magic! ✨🎩
 Why is it fun? 🎉
